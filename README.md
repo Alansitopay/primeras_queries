@@ -1,1 +1,0 @@
-# primeras_queries
