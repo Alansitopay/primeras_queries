@@ -1,0 +1,3 @@
+SELECT id, nombre AS "Nombre completo", apellido, cargo AS puesto, salario AS sueldo
+	FROM public.empleados
+	WHERE salario<4500 AND cargo='Vendedor';

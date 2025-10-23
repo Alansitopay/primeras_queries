@@ -1,0 +1,2 @@
+SELECT id, nombre AS "Nombre completo", apellido, cargo AS puesto, salario AS sueldo
+	FROM public.empleados;

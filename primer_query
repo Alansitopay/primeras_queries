@@ -1,0 +1,5 @@
+SELECT id, nombre, apellido, email,
+	telefono, cargo, salario, comision,
+	horas_trabajadas, ventas_realizadas,
+	fecha_contratacion, sucursal_id
+	FROM public.empleados;
